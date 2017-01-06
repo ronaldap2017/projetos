@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon May 30 08:40:20 BRT 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Venda.jar
+manifest.mergeall=true
+manifest.mainclass=Principal
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
