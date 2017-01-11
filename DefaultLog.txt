@@ -1,0 +1,98 @@
+2017/01/11 10:56:54: TelaProduto: jButton is null
+
+2017/01/11 10:58:52: TelaProduto: jButton is null
+
+2017/01/11 11:01:28: TelaProduto: jButton is null
+
+2017/01/11 11:01:43: TelaProduto: jButton is null
+
+2017/01/11 11:02:22: TelaProduto: jButton is null
+
+2017/01/11 11:04:39: TelaProduto: jButton is null
+
+2017/01/11 11:10:10: TelaProduto: jButton is null
+
+2017/01/11 11:10:55: TelaProduto: jButton is null
+
+2017/01/11 11:11:40: TelaProduto: jButton is null
+
+2017/01/11 11:12:00: TelaProduto: jButton is null
+
+2017/01/11 11:12:16: TelaProduto: jButton is null
+
+2017/01/11 11:14:03: TelaProduto: jButton is null
+
+2017/01/11 11:14:20: TelaProduto: jButton is null
+
+2017/01/11 11:15:47: TelaProduto: jButton is null
+
+2017/01/11 11:16:42: TelaProduto: jButton is null
+
+2017/01/11 11:18:12: TelaProduto: jButton is null
+
+2017/01/11 11:27:13: TelaProduto: jButton is null
+
+2017/01/11 11:29:29: TelaProduto: jButton is null
+
+2017/01/11 11:29:41: TelaProduto: jButton is null
+
+2017/01/11 11:33:13: TelaProduto: jButton is null
+
+2017/01/11 11:33:49: TelaProduto: jButton is null
+
+2017/01/11 11:44:08: TelaProduto: jButton is null
+
+2017/01/11 11:46:25: TelaProduto: jButton is null
+
+2017/01/11 11:49:05: TelaProduto: jButton is null
+
+2017/01/11 11:49:10: TelaProduto: jButton is null
+
+2017/01/11 11:49:38: TelaProduto: jButton is null
+
+2017/01/11 11:52:30: TelaProduto: jButton is null
+
+2017/01/11 11:52:57: TelaProduto: jButton is null
+
+2017/01/11 11:53:02: TelaProduto: jButton is null
+
+2017/01/11 11:53:19: TelaProduto: jButton is null
+
+2017/01/11 12:15:11: TelaProduto: jButton is null
+
+2017/01/11 12:20:11: TelaProduto: jButton is null
+
+2017/01/11 12:21:05: TelaProduto: jButton is null
+
+2017/01/11 12:22:36: TelaProduto: jButton is null
+
+2017/01/11 12:25:19: TelaProduto: jButton is null
+
+2017/01/11 12:26:15: TelaProduto: jButton is null
+
+2017/01/11 12:28:32: TelaProduto: jButton is null
+
+2017/01/11 12:30:24: TelaProduto: jButton is null
+
+2017/01/11 12:38:57: TelaProduto: jButton is null
+
+2017/01/11 12:41:39: TelaProduto: jButton is null
+
+2017/01/11 12:43:47: TelaProduto: jButton is null
+
+2017/01/11 13:00:07: TelaProduto: jButton is null
+
+2017/01/11 13:02:51: TelaProduto: jButton is null
+
+2017/01/11 13:04:08: TelaProduto: jButton is null
+
+2017/01/11 13:19:09: TelaProduto: jButton is null
+
+2017/01/11 13:45:09: TelaProduto: jButton is null
+
+2017/01/11 15:32:32: TelaProduto: jButton is null
+
+2017/01/11 16:18:50: TelaProduto: jButton is null
+
+2017/01/11 16:19:09: TelaProduto: jButton is null
+
